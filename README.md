@@ -6,7 +6,6 @@
 ## so yeah this is the template thing for it but modified a bit, idc, i'll fix it later
 -->
 
-<!--
 ## Wakatime Stuff?
 
 ---
