@@ -3,7 +3,7 @@ name: Update README.md
 on:
   push:
     paths:
-      - '.github/workflows/readme-action.yml'
+      - '.github/**'
       - 'README.md'
   schedule:
     - cron: '0 5 * * 6'
@@ -33,4 +33,3 @@ jobs:
 #          LOCALE: en
 #          SECTION_NAME: staterinos
 #          SHOW_LINES_OF_CODE: 'True'
-  
