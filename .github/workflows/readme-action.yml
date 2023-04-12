@@ -18,8 +18,7 @@ jobs:
         uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKE: ${{ secrets.GH_TOKEN }}
-          LOCALE: en
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SECTION_NAME: staterinos
           COMMIT_MESSAGE: waka waka waka waka
           BLOCKS: '⣀⣄⣤⣦⣶⣷⣿'
