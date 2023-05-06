@@ -15,11 +15,9 @@
 <!--START_SECTION:staterinos-->
 
 ```text
-Total Time: 52 mins
+Total Time: 0 secs
 
-AutoHotkey   45 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀   87.05 %
-JSON         5 mins          ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.65 %
-PowerShell   1 min           ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.30 %
+No activity tracked
 ```
 
 <!--END_SECTION:staterinos-->
