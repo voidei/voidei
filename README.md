@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - 👯 I'm looking to collaborate on  -  Starbound JSON extension lol
 - 🤔 I'm looking for help with - same as above ^^
 -->
-- 🔭 I'm currently working on  - <!-- An idle clicker game --> nothing atm
-- 💬 Ask me about  -  idk tbh
+- 🔭 I'm currently working on  - <!-- An idle clicker game nothing atm  --> something~
+- 💬 Ask me about  -  the tragedy of darth plageus the wise
 - 📫 How to reach me  -  Discord @voidei
 - 😄 Pronouns  -  She/Her
-- ⚡ Fun fact  - i'm not fun
+- ⚡ Fun fact  - "i'm not fun" is what I did put here, but that's so edgy, but I have no fun facts; ask someone else about fun facts
